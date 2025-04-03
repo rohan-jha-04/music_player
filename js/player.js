@@ -18,18 +18,18 @@ let isDarkTheme = false;
 const userName= localStorage.getItem('userName') || 'Guest';
 const songs = {
     english: [
-        {title: "Dusk Till Dawn", src: "assets/songs/english1.mp3", clip: "assets/clips/english1.mp4"},
-        {title: "Die with A Smile", src: "assets/songs/english2.mp3", clip: "assets/clips/english2.mp4"},
+        {title: "Dusk Till Dawn", src: "songs/english1.mp3", clip: "assets/clips/english1.mp4"},
+        {title: "Die with A Smile", src: "songs/english2.mp3", clip: "assets/clips/english2.mp4"},
         // Add more songs
     ],
     hindi: [
-        {title: "Aye Mere Humsafar", src: "assets/songs/hindi1.mp3", clip: "assets/clips/hindi1.mp4"},
-        {title: "Do Pal", src: "assets/songs/hindi2.mp3", clip: "assets/clips/hindi2.mp4"},
+        {title: "Aye Mere Humsafar", src: "songs/hindi1.mp3", clip: "assets/clips/hindi1.mp4"},
+        {title: "Do Pal", src: "songs/hindi2.mp3", clip: "assets/clips/hindi2.mp4"},
         // Add more songs
     ],
     punjabi: [
-        {title: "Kina Chir", src: "assets/songs/punjabi1.mp3", clip: "assets/clips/punjabi1.mp4"},
-        {title: "Wakh Ho Jana", src: "assets/songs/punjabi2.mp3", clip: "assets/clips/punjabi2.mp4"},
+        {title: "Kina Chir", src: "songs/punjabi1.mp3", clip: "assets/clips/punjabi1.mp4"},
+        {title: "Wakh Ho Jana", src: "songs/punjabi2.mp3", clip: "assets/clips/punjabi2.mp4"},
         // Add more songs
     ],
     bengali: [
