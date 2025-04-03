@@ -1,7 +1,7 @@
 body {
     margin: 0;
     height: 100vh;
-    background: url('../assets/images/background4.jpg') no-repeat center/cover;
+    background: url('../images/background4.jpg') no-repeat center/cover;
 }
 
 .container {
