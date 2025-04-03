@@ -18,7 +18,7 @@ let isDarkTheme = false;
 const userName= localStorage.getItem('userName') || 'Guest';
 const songs = {
     english: [
-        {title: "Dusk Till Dawn", src: "songs/english1.mp3", clip: "assets/clips/english1.mp4"},
+        {title: "Dusk Till Dawn", src: "songs/english1.mp3", clip: "english1.mp4"},
         {title: "Die with A Smile", src: "songs/english2.mp3", clip: "assets/clips/english2.mp4"},
         // Add more songs
     ],
